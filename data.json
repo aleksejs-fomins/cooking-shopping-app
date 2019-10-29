@@ -1,0 +1,14 @@
+{
+  "items" : [
+    { "name":"Banana",              "weight":150, "kcal":"2" },
+    { "name":"White Bread",         "weight":200, "kcal":"1.5" },
+    { "name":"Vanilla Ice Cream",   "weight":1000, "kcal":"4" }
+  ],
+    
+  "recipes" : {
+      "banana-split" : {
+          "ingredient"  : ["Banana", "Vanilla Ice Cream"],
+          "weight"      : [200, 200]
+      }
+  }
+}
